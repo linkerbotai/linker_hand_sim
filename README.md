@@ -1,4 +1,12 @@
+
+# This project has been moved to the new address, please visit https://github.com/linker-bot/linkerhand-sim
+
+
+
+----
+
 # linker_hand_sim
+
 [Isaac-Gym by Python3](https://github.com/linkerbotai/linker_hand_sim/blob/main/linker_hand_isaac_gym_urdf/README.md)
 
 [Mujoco by ros noetic](linker_hand_mujoco_ros/README_CN.md)
